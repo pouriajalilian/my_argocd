@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/pouriajalilian/frontend.git
-    path: manifests
+    path: ./
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc

@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/my-org/backend.git
+    repoURL: https://github.com/pouriajalilian/backend.git
     path: ./backend.yaml
     directory:
       recurse: true

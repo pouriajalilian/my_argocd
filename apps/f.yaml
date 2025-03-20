@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/pouriajalilian/backend.git
-    path: ./
+    path: .
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc

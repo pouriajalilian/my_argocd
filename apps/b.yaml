@@ -8,6 +8,8 @@ spec:
   source:
     repoURL: https://github.com/my-org/backend.git
     path: ./backend.yaml
+    directory:
+      recurse: true
     targetRevision: main
   destination:
     server: https://kubernetes.default.svc
